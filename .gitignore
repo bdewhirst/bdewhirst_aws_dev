@@ -1,6 +1,8 @@
 # ignore PyCharm files
 .idea/*
 
+# ignore everything in secrets (excluding things like .gitincude)
+secrets/*
 
 ###### github-supplied python ignores below this line ######
 
