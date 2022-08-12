@@ -1,3 +1,9 @@
+# ignore PyCharm files
+.idea/*
+
+
+###### github-supplied python ignores below this line ######
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
