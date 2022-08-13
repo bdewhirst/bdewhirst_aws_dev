@@ -4,6 +4,9 @@
 # ignore everything in secrets (excluding things like .gitincude)
 secrets/*
 
+# ignore cdk-demo-- larger than is wise to manage in git, etc.
+cdk-demo/*
+
 ###### github-supplied python ignores below this line ######
 
 # Byte-compiled / optimized / DLL files
