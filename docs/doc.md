@@ -3,6 +3,8 @@
 ## private notes on setup
 https://docs.google.com/document/d/1fy6fBrFXDZjmHlJwLRKq_i4bd4X89bT0F6n8un4c9ro/edit?usp=sharing
 
+**_n.b._: there is an open source gdoc to markdown add-on, so (with light editing), I could share that doc here.**
+
 As detailed in the above gdoc, I installed the relevant AWS IDE for PyCharm and confirmed it worked.
 
 The "secrets" folder of this project will only store files locally (_i.e._ not in git). 
