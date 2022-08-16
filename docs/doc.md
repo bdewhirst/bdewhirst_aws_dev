@@ -169,10 +169,10 @@ This completes the “AWS Credentials” section of setup
 
 Note: this stuff needs docker running to work
 
-This results in something like the following: \
+This results in something like the following: 
 
-# ADD IMAGE LINK HERE
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![](https://github.com/bdewhirst/bdewhirst_aws_dev/blob/main/docs/aws-ide.png?raw=true)
+
 
 (I need add’l info before I can test this)
 
